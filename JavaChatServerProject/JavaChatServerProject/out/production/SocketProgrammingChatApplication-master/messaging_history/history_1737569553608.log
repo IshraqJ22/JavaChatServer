@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2025-01-22T18:13:41.467982700Z</date>
+  <millis>1737569621467</millis>
+  <nanos>982700</nanos>
+  <sequence>0</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>ClientHandler</class>
+  <method>run</method>
+  <thread>27</thread>
+  <message>Ishraq,Message:'Hello',Timestamp:2025-01-23 00:13:41.46</message>
+</record>
+</log>
